@@ -11,9 +11,11 @@ public class Area {
         Double radius = input.nextDouble();
 
 
-// this is if do you remove static from the .getArea method in the Circle class
-//        Circle blue = new Circle();
-//        Double area = blue.getArea(radius);
+/*
+ this is if do you remove static from the .getArea method in the Circle class
+        Circle blue = new Circle();
+        Double area = blue.getArea(radius);
+*/
 
         Double area = Circle.getArea(radius);
 
