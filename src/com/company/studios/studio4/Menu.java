@@ -1,6 +1,6 @@
 package com.company.studios.studio4;
 
-import com.company.studios.studio3.MenuItem;
+import com.company.studios.studio4.MenuItem;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -20,6 +20,38 @@ public class Menu {
     }
 
     public Menu() {}
+
+    public ArrayList<MenuItem> addItem(MenuItem aItem) {
+        this.menuItems.add(aItem);
+        return this.menuItems;
+    }
+
+    public ArrayList<MenuItem> removeItem(MenuItem aItem) {
+        boolean hasItem = false;
+        for(MenuItem item : this.menuItems) {
+            if(item.equals(aItem)) {
+                hasItem = true;
+            }
+        }
+        if(hasItem) {
+            this.menuItems.remove(aItem);
+        }
+
+        return this.menuItems;
+    }
+
+    private void printLastUpdated() {
+        System.out.print("Last updated: " + this.lastUpdated);
+    }
+
+    public void printMenu() {
+        for (MenuItem item : this.menuItems) {
+            System.out.println(item.toString());
+            System.out.println("****************");
+        }
+        printLastUpdated();
+    }
+
 
     //Getters and Setters
     public ArrayList<MenuItem> getMenuItems() {
