@@ -1,4 +1,4 @@
-package com.company.studios.studio4;
+package com.company.studios.studio4.inClassStudio;
 
 import java.util.ArrayList;
 

@@ -1,6 +1,4 @@
-package com.company.studios.studio4;
-
-import com.company.studios.studio4.MenuItem;
+package com.company.studios.studio4.inClassStudio;
 
 import java.util.ArrayList;
 import java.util.Date;
