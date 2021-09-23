@@ -15,3 +15,5 @@
     * inClassExample - the one we went over in studio
     * answerKeyStudio - what the answer key says
     * anotherExample - Another example that I just did that include using some private methods and static methods.
+  
++ Studio 5 Unit Testing at https://github.com/cjconnor18/junit-studio-lc101
