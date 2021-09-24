@@ -17,3 +17,6 @@
     * anotherExample - Another example that I just did that include using some private methods and static methods.
   
 + Studio 5 Unit Testing at https://github.com/cjconnor18/junit-studio-lc101
++ Studio 6 Quiz Questions at src/com/company/studios/studio6
+  * Run program from QuizRunner
+  * This is our in class work; I'm going to work on Checkbox.
