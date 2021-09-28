@@ -19,4 +19,5 @@
 + Studio 5 Unit Testing at https://github.com/cjconnor18/junit-studio-lc101
 + Studio 6 Quiz Questions at src/com/company/studios/studio6
   * Run program from QuizRunner
-  * This is our in class work; I'm going to work on Checkbox.
+  * This is our in class work
+  * Checkbox class has been finished
