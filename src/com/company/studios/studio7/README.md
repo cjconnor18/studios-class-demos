@@ -1,5 +1,5 @@
 Here are our white boards from class as well....
-<br>Board 1:
+<br><br>Board 1:
 ![What behaviors do CDs and DVDs have in common](./images/Whiteboard1.png "Title")
 Board 2:
 ![Does it need specific info from the class](./images/Whiteboard2.png "Title")
