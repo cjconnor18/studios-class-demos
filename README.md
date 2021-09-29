@@ -21,3 +21,9 @@
   * Run program from QuizRunner
   * This is our in class work
   * Checkbox class has been finished
+  
++ Studio 7 Interfaces src/com/company/studios/studio7
+  * Run program from Main Class
+  * This is what we did in class
+  * In the images folder, we have images from our white boarding session
+  * Readme file in the Studio 7 directory should show all the images as well
